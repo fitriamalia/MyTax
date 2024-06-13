@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mytax-test",
+  "private_key_id": "4353eb52737d8d9d18b617876388ccdbdf86f064",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDvQ6CVLey+bQeE\nTLWT45H2szB2BPbH8Gkk71I6lpdqOLQjXc/J+1TXyO2jgC0WFnQF1Lt4ClUB01im\nbl+9nRrfn4+NQa3f5dgd9Jd7lla1xi/ixssKV7WPjXuFBgJOiPo7FDFcfXRpgK+w\nGnYhGujnKfGYVGvY3+4cKfWfR7QpVcRoLA5TIqq9Eu4Y58N68ahO0wr1dis5j3u5\namovv5pXCHoLWkGrdzTBaiN9riJPnqdkKISIoxElzXyIQsYX2s0ssHbT+X3rXAo3\nPjcPyrBLK4pv8nGMKI8v6tuN6qZwDPey3m/X8NB8/aGcp/F110ywec8Og11KFsxK\navhkq62tAgMBAAECggEAcVWb5b4kw8j6hAkgA6cK14xmmqjcSrYO4B962GTH4Vlt\nvsjrqdXjCPnU0xtef/VvzOlJSeG/BYfamK90q2kVNzMqOPORDJsfpYTcEn8SoLT5\nrtaSi9ojFxYiGc9QXWoV+dElVpXYhDcgQW8vYJwSEZm1Jn5qvYbJD88yWVoKNX9P\n9v88FI5UJc+JSmYf7x2J8MrVAGzbslb0tqorLIDCKu5Arr0KtTSMJe19ExG6bKq6\nCDdsvCGzOHtdNxKuuolFiyBT8PctFQx21nMFiTPfmSsTRUwT821bL4EhaNzesp8q\nBitIZXPZvCnQR5PeSpP4FiWxyXPMFwZQPr9MWIPCYwKBgQD6sZVx3HWwHEb0uipj\n+x9+5OMtR4H9PGTVDrwltOlj9nnNRkNe0aHWlQD19SBBW/qa6wNeFxaNtAWcYqmO\nVuvz0ukRES1h9tZ7SmRFHutZmtnRC34ACUbenoFp3jtvYnU9qtXdAAYohwxCzbVC\noXeXlca7kh2ddSxbhdyoQl0lTwKBgQD0VBx2p7bXE4qESGR3AQK+2qGcz3spTrLL\ny6nejDI5seBr4vTTDo0a5QlMzK0N/JdUu8w5edqH1p0yxvmXkV4C1vMIg/IYpX7E\nrCRsZCeuwLDzeTd2cU9WmZThCvd4ZwoWfQHo71ON1v9bW65wripr3s+otHstcQGW\nD+Mjyj/2QwKBgD6tIWDrLl1OZIsQ9EI06aXvEcEjTKOEcu01luKSfXtphwBEXdmZ\n7a1ZaXkUxPCyT1BmC1x9xzy8Ul7L5/pXTvyRsYV71u3UKcF/UtxZI5wuc+Coz+Kw\nbxB/bnmKfy+U3R0C1h8/v0pooS8egP/coKq8XohMuqzAO8vSBt3mYaVPAoGACJMb\nHJ7uL8YjyliwDe0fJ4uMuHAfpmd4puZS49iPuq6fbandZbrRAOyg0u0r9Z2zwemF\nVU8NeE7z3WBWShdz8S2SAe5/hJXqSQSxkoxBSETC8QiEBcgcPLHPI8a6wKL9G6Tv\neDlN+WBePdqN2K6EFp0PNKCA4ithHt8X3Z2vePkCgYEAhQ9VKlZpVg1ZOA+Q2lIh\nht6BMA+MzLkEZ9Y6MuPubkWig/Jp3GFMk+sJRD6dhZCdgO9px2jJ1ZzzK17pyiji\nawGMG7nKVcusVM3TEAFFpr55alml66y76VBpqbEpfHZ3oru9/2tDamIKydbBcP+1\neX19Xq97Xa5HTmveSVVmXek=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fitriamalia200222-gmail-1@mytax-test.iam.gserviceaccount.com",
+  "client_id": "112849858886326884278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fitriamalia200222-gmail-1%40mytax-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
